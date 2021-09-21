@@ -5,7 +5,7 @@
       About Me
     </code>
   </summary>
-  <img align="left" height="200" src="https://31.media.tumblr.com/cf20f1a18a8a9e691e87b9b37d2816a8/tumblr_n29a4oGh2n1qza1qzo1_500.gif" />
+  <img align="left" width="170px" src="https://31.media.tumblr.com/cf20f1a18a8a9e691e87b9b37d2816a8/tumblr_n29a4oGh2n1qza1qzo1_500.gif" />
 
   ```diff
   hi, im michael 👨🏻‍💻
@@ -28,8 +28,12 @@
     </code>
   </summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="michaelkazmans Github Stats" src="https://github-readme-stats.vercel.app/api/?username=michaelkazman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=161A23&title_color=D3A9FF&icon_color=75B8F7" height="219px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="michaelkazmans Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkazman&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=161A23&title_color=D3A9FF&icon_color=75B8F7" height="219px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="michaelkazmans Github Stats" src="https://github-readme-stats.vercel.app/api/?username=michaelkazman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=171A21&title_color=D3A9FF&icon_color=92C0E8&text_color=FFFFFF" height="491px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="michaelkazmans Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkazman&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=171A21&title_color=D3A9FF&icon_color=66CECE&text_color=FFFFFF" height="358px"/>
+  </a>
   <br/>
 </details>
 <br/>
