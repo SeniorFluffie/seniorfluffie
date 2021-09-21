@@ -1,16 +1,12 @@
-### Hi there 👋
+<img align="left" height="200" src="https://31.media.tumblr.com/cf20f1a18a8a9e691e87b9b37d2816a8/tumblr_n29a4oGh2n1qza1qzo1_500.gif"/>
 
-<!--
-**SeniorFluffie/seniorfluffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+hi, im michael 👨🏻‍💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@@developer@@
++ 22 years old
+- based in toronto, canada
+! web dev, full-stack, and data science
+🎓 computer science @ carleton university
+diff "i haven't failed, i’ve just found 10,000 ways that won’t work"
+```
