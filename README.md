@@ -143,7 +143,7 @@
   <br/>
   <div>
       <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&cover_image=true&theme=novatorem" href="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&redirect=true" />
-      <img vertical-align="middle" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+      <img vertical-align="middle" height="94px" src="./images/spotify.gif" />
   </div>
 </details>
 <!-- End Spotify -->
