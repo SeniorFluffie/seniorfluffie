@@ -5,7 +5,7 @@
       About Me
     </code>
   </summary>
-  <img align="left" width="184px" src="./images/floating_computer.gif" />
+  <img align="left" width="168px" src="./images/floating_computer.gif" />
 
   ```diff
   hi, im michael 👨🏻‍💻
