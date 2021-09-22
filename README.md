@@ -83,12 +83,10 @@
     <td>
       <img src="https://img.icons8.com/color/30/tensorflow.png"/>
       <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jupyter.svg" />
-      <img src="https://img.icons8.com/color/30/jupyter.png"/>
-      <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikit-learn.svg" />
       <img src="https://img.icons8.com/color/30/opencv.png"/>    
+      <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikit-learn.svg" />
     </td>
   </tr>
-  <tr>
   <tr>
     <td>Databases</td>
     <td>
@@ -121,7 +119,6 @@
       <img src="https://img.icons8.com/color/30/git.png"/>
       <img src="https://img.icons8.com/material-outlined/30/github.png"/>
       <img src="https://img.icons8.com/color/30/gitlab.png"/>
-      <img src="https://img.icons8.com/color/30/windows-10.png"/>
     </td>
   </tr>
   <tr>
