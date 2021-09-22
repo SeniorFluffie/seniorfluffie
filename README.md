@@ -143,6 +143,9 @@
   <br/>
   <div>
     <a href="https://open.spotify.com/playlist/6tEwsHDqkDzPOL9tmuPuUv">
+      <img src="https://img.shields.io/badge/Programming%20☕-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    </a>
+    <a href="https://open.spotify.com/playlist/6tEwsHDqkDzPOL9tmuPuUv">
       <img src="https://img.shields.io/badge/EDM%20🎛️-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
     </a>
     <a href="https://open.spotify.com/playlist/0wZIutZFpaUYYwJJyhkMVG">
@@ -174,11 +177,21 @@
   </summary>
   <br/>
     <div>
+      <a href="https://github.com/michaelkazman">
         <img src="https://img.shields.io/github/followers/michaelkazman?style=social"/>
-        <img src="https://img.shields.io/badge/-michael.kazman-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:michael.kazman@gmail.com"/>
-        <img src="https://img.shields.io/badge/-michaelkazman.com-blue?style=social&logo=homeassistantcommunitystore&logoColor=colorB&link=https://michaelkazman.com"/>
-        <img src="https://img.shields.io/badge/-Michael%20Kazman-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaelkazman/"/>
+      </a>
+      <a href="mailto:michael.kazman@gmail.com">
+        <img src="https://img.shields.io/badge/-michael.kazman-c14438?style=social&logo=Gmail&logoColor=red"/>
+      </a>
+      <a href="https://michaelkazman.com">
+        <img src="https://img.shields.io/badge/-michaelkazman.com-blue?style=social&logo=homeassistantcommunitystore&logoColor=colorB"/>
+      </a>
+      <a href="https://www.linkedin.com/in/michaelkazman/">
+        <img src="https://img.shields.io/badge/-Michael%20Kazman-blue?style=social&logo=Linkedin&logoColor=blue"/>
+      </a>
+      <a href="javascript:void(0);">
         <img src="https://komarev.com/ghpvc/?username=michaelkazman&color=0C866C"/>
+      </a>
     </div>
 </details>
 <!-- End Social Badges -->
