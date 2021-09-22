@@ -142,8 +142,16 @@
   </summary>
   <br/>
   <div>
-      <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&cover_image=true&theme=novatorem" href="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&redirect=true" />
-      <img vertical-align="middle" height="95px" src="./images/spotify.gif" />
+    <img src="https://img.shields.io/badge/Programming%20☕-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" href="https://open.spotify.com/playlist/2mtlhuFVOFMn6Ho3JmrLc2" />    
+    <img src="https://img.shields.io/badge/EDM%20🎛️-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" href="https://open.spotify.com/playlist/6tEwsHDqkDzPOL9tmuPuUv" />
+    <img src="https://img.shields.io/badge/Fantasy%20🧙-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" href="https://open.spotify.com/playlist/0wZIutZFpaUYYwJJyhkMVG" />
+    <img src="https://img.shields.io/badge/Classical%20🎩-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" href="https://open.spotify.com/playlist/0a89QvfUATI2oN9VnrZdJr" />        
+    <img src="https://img.shields.io/badge/Movies%20🎬-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" href="https://open.spotify.com/playlist/3POsn2Qb5LcNZukDH3YsEk" />
+    <img src="https://img.shields.io/badge/Alt%20Rock%20🎸-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" href="https://open.spotify.com/playlist/6UR7WrfWrOZEkgTNgN3ieg" />      
+  </div>
+  <div>
+    <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&cover_image=true&theme=novatorem" href="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&redirect=true" />
+    <img vertical-align="middle" height="95px" src="./images/spotify.gif" href="https://open.spotify.com/user/seniorfluffie" />
   </div>
 </details>
 <!-- End Spotify -->
