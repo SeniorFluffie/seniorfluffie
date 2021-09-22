@@ -14,7 +14,7 @@
   + 22 years old
   - based in toronto, canada
   ! web dev, full-stack, and data science
-  🎓 computer science @ carleton university
+  🎓 computer science grad @ carleton university
   diff "i haven't failed, i’ve just found 10,000 ways that won’t work"
   ```
 </details>
