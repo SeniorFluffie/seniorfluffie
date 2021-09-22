@@ -21,7 +21,7 @@
 <br/>
 <!-- End Header -->
 <!-- Begin GitHub Stats -->
-<details>
+<details open>
   <summary>
     <code>
       GitHub Stats
@@ -29,10 +29,10 @@
   </summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="michaelkazmans Github Stats" src="https://github-readme-stats.vercel.app/api/?username=michaelkazman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=171A21&title_color=D3A9FF&icon_color=92C0E8&text_color=FFFFFF" height="491px"/>
+    <img alt="michaelkazmans Github Stats" src="https://github-readme-stats.vercel.app/api/?username=michaelkazman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=D3A9FF&icon_color=92C0E8&text_color=FFFFFF" height="219.75px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="michaelkazmans Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkazman&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=171A21&title_color=D3A9FF&icon_color=66CECE&text_color=FFFFFF" height="358px"/>
+    <img alt="michaelkazmans Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkazman&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=161B22&title_color=D3A9FF&icon_color=92C0E8&text_color=FFFFFF" height="219.75px"/>
   </a>
   <br/>
 </details>
