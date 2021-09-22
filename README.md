@@ -53,80 +53,158 @@
   <tr>
     <td>Front-End</td>
     <td>
-      <img src="https://img.icons8.com/color/30/javascript.png"/>
-      <img src="https://img.icons8.com/color/30/html-5.png"/>
-      <img src="https://img.icons8.com/color/30/css3.png"/>
-      <img src="https://img.icons8.com/color/30/react-native.png"/>
-      <img src="https://img.icons8.com/color/30/redux.png"/>
-      <img src="https://img.icons8.com/color/30/nodejs.png"/>
-      <img src="https://img.icons8.com/color/30/typescript.png"/>          
-      <img src="https://img.icons8.com/color/30/sass.png"/>      
-      <img src="https://img.icons8.com/color/30/material-ui.png"/>   
-      <img src="https://img.icons8.com/color/30/bootstrap.png"/>      
+      <a href="">
+        <img src="https://img.icons8.com/color/30/javascript.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/html-5.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/css3.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/react-native.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/redux.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/nodejs.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/typescript.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/sass.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/material-ui.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/bootstrap.png"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td>Back-End</td>
     <td>
-      <img src="https://img.icons8.com/color/30/python.png"/>
-      <img src="https://img.icons8.com/color/30/django.png"/>      
-      <img src="https://img.icons8.com/color/30/java.png"/>
-      <img src="https://img.icons8.com/color/30/spring-logo.png"/>      
-      <img src="https://img.icons8.com/color/30/c-plus-plus-logo.png"/>
-      <img src="https://img.icons8.com/color/30/c-programming.png"/>      
+      <a href="">
+        <img src="https://img.icons8.com/color/30/python.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/django.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/java.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/spring-logo.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/c-plus-plus-logo.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/c-programming.png"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td>Data Science</td>
     <td>
-      <img src="https://img.icons8.com/color/30/tensorflow.png"/>
-      <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jupyter.svg" />
-      <img src="https://img.icons8.com/color/30/opencv.png"/>    
-      <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikit-learn.svg" />
+      <a href="">
+        <img src="https://img.icons8.com/color/30/tensorflow.png"/>
+      </a>
+      <a href="">
+        <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jupyter.svg" />
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/opencv.png"/>
+      </a>
+      <a href="">
+        <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikit-learn.svg" />
+      </a>
     </td>
   </tr>
   <tr>
     <td>Databases</td>
     <td>
-      <img src="https://img.icons8.com/color/30/mongodb.png"/>
-      <img src="https://img.icons8.com/color/30/mysql-logo.png"/>
-      <img src="https://img.icons8.com/color/30/amazon-s3.png"/>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/mongodb.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/mysql-logo.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/amazon-s3.png"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td>Cloud</td>
     <td>
-      <img src="https://img.icons8.com/color/30/google-cloud.png"/>
-      <img src="https://img.icons8.com/color/30/amazon-web-services.png"/>
-      <img src="https://img.icons8.com/color/30/azure.png"/>
-      <img src="https://img.icons8.com/color/30/docker.png"/>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/google-cloud.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/amazon-web-services.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/azure.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/docker.png"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td>Operating Systems</td>
     <td>
-      <img src="https://img.icons8.com/color/30/mac-os.png"/>
-      <img src="https://img.icons8.com/color/30/linux.png"/>
-      <img src="https://img.icons8.com/color/30/ubuntu--v1.png"/>
-      <img src="https://img.icons8.com/color/30/windows-10.png"/>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/mac-os.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/linux.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/ubuntu--v1.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/windows-10.png"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td>Version Control</td>
     <td>
-      <img src="https://img.icons8.com/color/30/git.png"/>
-      <img src="https://img.icons8.com/material-outlined/30/github.png"/>
-      <img src="https://img.icons8.com/color/30/gitlab.png"/>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/git.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/material-outlined/30/github.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/gitlab.png"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td>Misc</td>
     <td>
-      <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
-      <img src="https://img.icons8.com/plasticine/30/000000/bash.png"/>
-      <img src="https://img.icons8.com/color/30/000000/confluence--v2.png"/>
-      <img src="https://img.icons8.com/color/30/000000/powershell.png"/>
-      <img src="https://img.icons8.com/color/30/npm.png"/>      
+      <a href="">
+        <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/plasticine/30/000000/bash.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/000000/confluence--v2.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/000000/powershell.png"/>
+      </a>
+      <a href="">
+        <img src="https://img.icons8.com/color/30/npm.png"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -142,7 +220,7 @@
   </summary>
   <br/>
   <div>
-    <a href="https://open.spotify.com/playlist/6tEwsHDqkDzPOL9tmuPuUv">
+    <a href="https://open.spotify.com/playlist/2mtlhuFVOFMn6Ho3JmrLc2">
       <img src="https://img.shields.io/badge/Programming%20☕-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
     </a>
     <a href="https://open.spotify.com/playlist/6tEwsHDqkDzPOL9tmuPuUv">
@@ -189,7 +267,9 @@
       <a href="https://www.linkedin.com/in/michaelkazman/">
         <img src="https://img.shields.io/badge/-Michael%20Kazman-blue?style=social&logo=Linkedin&logoColor=blue"/>
       </a>
-      <a href="javascript:void(0);">
+    </div>
+    <div>
+      <a href="#">
         <img src="https://komarev.com/ghpvc/?username=michaelkazman&color=0C866C"/>
       </a>
     </div>
