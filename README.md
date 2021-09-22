@@ -20,7 +20,6 @@
 </details>
 <!-- End Header -->
 <br>
-<br>
 <!-- Begin GitHub Stats -->
 <details open>
   <summary>
@@ -37,7 +36,6 @@
   </a>
 </details>
 <!-- End GitHub Stats -->
-<br>
 <br>
 <!-- Start Technologies -->
 <details open>
@@ -135,7 +133,6 @@
 </details>
 <!-- End Technologies -->
 <br>
-<br>
 <!-- Start Spotify -->
 <details open>
   <summary>
@@ -150,7 +147,6 @@
   </div>
 </details>
 <!-- End Spotify -->
-<br>
 <br>
 <!-- Start Social Badges -->
 <details open>
@@ -169,7 +165,6 @@
     </div>
 </details>
 <!-- End Social Badges -->
-<br>
 <br>
 <!-- Start BuyMeACoffee -->
 <details open>
