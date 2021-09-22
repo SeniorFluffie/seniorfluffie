@@ -53,34 +53,34 @@
   <tr>
     <td>Front-End</td>
     <td>
-      <a href="">
+      <a href="https://www.javascript.com/">
         <img src="https://img.icons8.com/color/30/javascript.png"/>
       </a>
-      <a href="">
+      <a href="https://html.spec.whatwg.org/multipage/">
         <img src="https://img.icons8.com/color/30/html-5.png"/>
       </a>
-      <a href="">
+      <a href="https://www.w3.org/Style/CSS/">
         <img src="https://img.icons8.com/color/30/css3.png"/>
       </a>
-      <a href="">
+      <a href="https://reactjs.org/">
         <img src="https://img.icons8.com/color/30/react-native.png"/>
       </a>
-      <a href="">
+      <a href="https://redux.js.org/">
         <img src="https://img.icons8.com/color/30/redux.png"/>
       </a>
-      <a href="">
+      <a href="https://nodejs.org/">
         <img src="https://img.icons8.com/color/30/nodejs.png"/>
       </a>
-      <a href="">
+      <a href="https://www.typescriptlang.org/">
         <img src="https://img.icons8.com/color/30/typescript.png"/>
       </a>
-      <a href="">
+      <a href="https://sass-lang.com/">
         <img src="https://img.icons8.com/color/30/sass.png"/>
       </a>
-      <a href="">
+      <a href="https://next.material-ui.com/">
         <img src="https://img.icons8.com/color/30/material-ui.png"/>
       </a>
-      <a href="">
+      <a href="https://getbootstrap.com/">
         <img src="https://img.icons8.com/color/30/bootstrap.png"/>
       </a>
     </td>
@@ -88,39 +88,39 @@
   <tr>
     <td>Back-End</td>
     <td>
-      <a href="">
+      <a href="https://www.python.org/">
         <img src="https://img.icons8.com/color/30/python.png"/>
       </a>
-      <a href="">
+      <a href="https://www.djangoproject.com/">
         <img src="https://img.icons8.com/color/30/django.png"/>
       </a>
-      <a href="">
+      <a href="https://www.java.com/">
         <img src="https://img.icons8.com/color/30/java.png"/>
       </a>
-      <a href="">
+      <a href="https://spring.io/">
         <img src="https://img.icons8.com/color/30/spring-logo.png"/>
       </a>
-      <a href="">
-        <img src="https://img.icons8.com/color/30/c-plus-plus-logo.png"/>
-      </a>
-      <a href="">
+      <a href="http://www.open-std.org/JTC1/SC22/WG14/">
         <img src="https://img.icons8.com/color/30/c-programming.png"/>
+      </a>      
+      <a href="http://www.open-std.org/JTC1/SC22/WG21/">
+        <img src="https://img.icons8.com/color/30/c-plus-plus-logo.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>Data Science</td>
     <td>
-      <a href="">
+      <a href="https://www.tensorflow.org/">
         <img src="https://img.icons8.com/color/30/tensorflow.png"/>
       </a>
-      <a href="">
+      <a href="https://jupyter.org/">
         <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jupyter.svg" />
       </a>
-      <a href="">
+      <a href="https://opencv.org/">
         <img src="https://img.icons8.com/color/30/opencv.png"/>
       </a>
-      <a href="">
+      <a href="https://scikit-learn.org/">
         <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikit-learn.svg" />
       </a>
     </td>
@@ -128,13 +128,13 @@
   <tr>
     <td>Databases</td>
     <td>
-      <a href="">
+      <a href="https://www.mongodb.com/">
         <img src="https://img.icons8.com/color/30/mongodb.png"/>
       </a>
-      <a href="">
+      <a href="https://www.mysql.com/">
         <img src="https://img.icons8.com/color/30/mysql-logo.png"/>
       </a>
-      <a href="">
+      <a href="https://aws.amazon.com/s3/">
         <img src="https://img.icons8.com/color/30/amazon-s3.png"/>
       </a>
     </td>
@@ -142,16 +142,16 @@
   <tr>
     <td>Cloud</td>
     <td>
-      <a href="">
+      <a href="https://cloud.google.com/">
         <img src="https://img.icons8.com/color/30/google-cloud.png"/>
       </a>
-      <a href="">
+      <a href="https://aws.amazon.com/">
         <img src="https://img.icons8.com/color/30/amazon-web-services.png"/>
       </a>
-      <a href="">
+      <a href="https://azure.microsoft.com/">
         <img src="https://img.icons8.com/color/30/azure.png"/>
       </a>
-      <a href="">
+      <a href="https://www.docker.com/">
         <img src="https://img.icons8.com/color/30/docker.png"/>
       </a>
     </td>
@@ -159,16 +159,16 @@
   <tr>
     <td>Operating Systems</td>
     <td>
-      <a href="">
+      <a href="https://www.apple.com/macos/">
         <img src="https://img.icons8.com/color/30/mac-os.png"/>
       </a>
-      <a href="">
+      <a href="https://www.linux.org/">
         <img src="https://img.icons8.com/color/30/linux.png"/>
       </a>
-      <a href="">
+      <a href="https://ubuntu.com/">
         <img src="https://img.icons8.com/color/30/ubuntu--v1.png"/>
       </a>
-      <a href="">
+      <a href="https://www.microsoft.com/en-ca/windows">
         <img src="https://img.icons8.com/color/30/windows-10.png"/>
       </a>
     </td>
@@ -176,33 +176,36 @@
   <tr>
     <td>Version Control</td>
     <td>
-      <a href="">
+      <a href="https://git-scm.com/">
         <img src="https://img.icons8.com/color/30/git.png"/>
       </a>
-      <a href="">
+      <a href="https://github.com/">
         <img src="https://img.icons8.com/material-outlined/30/github.png"/>
       </a>
-      <a href="">
+      <a href="https://about.gitlab.com/">
         <img src="https://img.icons8.com/color/30/gitlab.png"/>
       </a>
+      <a href="https://bitbucket.org/">
+        <img src="https://img.icons8.com/color/30/bitbucket.png"/>
+      </a>      
     </td>
   </tr>
   <tr>
     <td>Misc</td>
     <td>
-      <a href="">
+      <a href="https://code.visualstudio.com/">
         <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
       </a>
-      <a href="">
+      <a href="https://www.gnu.org/software/bash/">
         <img src="https://img.icons8.com/plasticine/30/000000/bash.png"/>
       </a>
-      <a href="">
+      <a href="https://www.atlassian.com/software/confluence">
         <img src="https://img.icons8.com/color/30/000000/confluence--v2.png"/>
       </a>
-      <a href="">
+      <a href="https://docs.microsoft.com/en-us/powershell/">
         <img src="https://img.icons8.com/color/30/000000/powershell.png"/>
       </a>
-      <a href="">
+      <a href="https://www.npmjs.com/">
         <img src="https://img.icons8.com/color/30/npm.png"/>
       </a>
     </td>
