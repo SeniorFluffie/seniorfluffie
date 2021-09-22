@@ -18,9 +18,9 @@
   diff "i haven't failed, i’ve just found 10,000 ways that won’t work"
   ```
 </details>
-<br/>
-<br/>
 <!-- End Header -->
+<br>
+<br>
 <!-- Begin GitHub Stats -->
 <details open>
   <summary>
@@ -35,10 +35,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="michaelkazmans Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkazman&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=161B22&title_color=D3A9FF&icon_color=92C0E8&text_color=FFFFFF" height="194px"/>
   </a>
-  <br/>
 </details>
-<br/>
 <!-- End GitHub Stats -->
+<br>
+<br>
 <!-- Start Technologies -->
 <details open>
   <summary>
@@ -131,11 +131,13 @@
 </table>
 </details>
 <!-- End Technologies -->
+<br>
+<br>
 <!-- Start Social Badges -->
-<div align="right">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=michaelkazman&color=0C866C"/>
 </div>
-<div align="right">
+<div align="left">
     <img src="https://img.shields.io/badge/-michaelkazman.com-blue?style=social&logo=homeassistantcommunitystore&logoColor=colorB&link=https://michaelkazman.com"/>
     <img src="https://img.shields.io/badge/-Michael%20Kazman-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaelkazman/"/>
     <img src="https://img.shields.io/badge/-michael.kazman-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:michael.kazman@gmail.com"/>
