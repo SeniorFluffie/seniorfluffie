@@ -144,27 +144,45 @@
     </code>
   </summary>
   <br/>
-    <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&cover_image=true&theme=novatorem" href="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&redirect=true" />
-    <img height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  <div>
+      <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&cover_image=true&theme=novatorem" href="https://spotify-github-profile.vercel.app/api/view?uid=seniorfluffie&redirect=true" />
+      <img vertical-align="middle" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  </div>
 </details>
 <!-- End Spotify -->
 <br>
 <br>
 <!-- Start Social Badges -->
-<div>
-    <img src="https://img.shields.io/github/followers/michaelkazman?style=social"/>
-    <img src="https://img.shields.io/badge/-michael.kazman-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:michael.kazman@gmail.com"/>
-    <img src="https://img.shields.io/badge/-michaelkazman.com-blue?style=social&logo=homeassistantcommunitystore&logoColor=colorB&link=https://michaelkazman.com"/>
-    <img src="https://img.shields.io/badge/-Michael%20Kazman-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaelkazman/"/>
-    <img src="https://komarev.com/ghpvc/?username=michaelkazman&color=0C866C"/>
-  
-</div>
+<details open>
+  <summary>
+    <code>
+      &lt;socials&gt;
+    </code>
+  </summary>
+  <br/>
+    <div>
+        <img src="https://img.shields.io/github/followers/michaelkazman?style=social"/>
+        <img src="https://img.shields.io/badge/-michael.kazman-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:michael.kazman@gmail.com"/>
+        <img src="https://img.shields.io/badge/-michaelkazman.com-blue?style=social&logo=homeassistantcommunitystore&logoColor=colorB&link=https://michaelkazman.com"/>
+        <img src="https://img.shields.io/badge/-Michael%20Kazman-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaelkazman/"/>
+        <img src="https://komarev.com/ghpvc/?username=michaelkazman&color=0C866C"/>
+    </div>
+</details>
 <!-- End Social Badges -->
 <br>
+<br>
 <!-- Start BuyMeACoffee -->
-<div align="center">
-    <a href="https://www.buymeacoffee.com/michaelkazman">
-      <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer?&emoji=🍺&slug=michaelkazman&button_colour=5b95a9&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00?font-size=0.5" height="48px">
-    </a>
-</div>
+<details open>
+  <summary>
+    <code>
+      &lt;support&gt;
+    </code>
+  </summary>
+  <br/>
+  <div align="center">
+      <a href="https://www.buymeacoffee.com/michaelkazman">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer?&emoji=🍺&slug=michaelkazman&button_colour=5b95a9&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00?font-size=0.5" height="58px">
+      </a>
+  </div>
+</details>
 <!-- End BuyMeACoffee -->
