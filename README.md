@@ -83,6 +83,9 @@
       <a href="https://getbootstrap.com/">
         <img src="https://img.icons8.com/color/30/bootstrap.png"/>
       </a>
+      <a href="https://nextjs.org/">
+        <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" />
+      </a>
     </td>
   </tr>
   <tr>
