@@ -1,3 +1,7 @@
+<!-- Begin Banner -->
+<img width="100%" src="./images/banner.jpg" />
+<!-- End Banner -->
+<br>
 <!-- Begin Header -->
 <details open>
   <summary>
