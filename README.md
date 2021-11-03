@@ -1,5 +1,13 @@
 <!-- Begin Banner -->
-<img width="100%" src="./images/banner.jpg" />
+<details open>
+  <summary>
+    <code>
+      &lt;banner&gt;
+    </code>
+  </summary>
+  <br/>
+  <img width="100%" src="./images/banner.jpg" />
+</details>
 <!-- End Banner -->
 <br>
 <!-- Begin Header -->
