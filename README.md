@@ -23,7 +23,7 @@
   hi, im michael 👨🏻‍💻
 
   @@developer@@
-  + 22 years old
+  + 23 years old
   - based in toronto, canada
   ! web dev, full-stack, and data science
   🎓 computer science grad @ carleton university
