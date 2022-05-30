@@ -304,7 +304,7 @@
   <br/>
   <div align="center">
       <a href="https://www.buymeacoffee.com/michaelkazman">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer?&emoji=🍺&slug=michaelkazman&button_colour=5b95a9&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00?font-size=0.5" height="58px">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer?&emoji=🍺&slug=michaelkazman&button_colour=5b95a9&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" height="58px" />
       </a>
   </div>
 </details>
