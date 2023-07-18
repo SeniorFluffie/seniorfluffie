@@ -1,9 +1,7 @@
 <!-- Begin Banner -->
 <details open>
   <summary>
-    <code>
-      &lt;banner&gt;
-    </code>
+    <code>&lt;banner&gt;</code>
   </summary>
   <br/>
   <img width="100%" src="./images/banner.jpg" />
@@ -13,9 +11,7 @@
 <!-- Begin Header -->
 <details open>
   <summary>
-    <code>
-      &lt;about me&gt;
-    </code>
+    <code>&lt;about me&gt;</code>
   </summary>
   <img align="left" width="168px" src="./images/floating_computer.gif" />
 
@@ -35,9 +31,7 @@
 <!-- Begin GitHub Stats -->
 <details open>
   <summary>
-    <code>
-      &lt;github stats&gt;
-    </code>
+    <code>&lt;github stats&gt;</code>
   </summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -52,9 +46,7 @@
 <!-- Start Technologies -->
 <details open>
   <summary>
-    <code>
-      &lt;technologies&gt;
-    </code>
+    <code>&lt;technologies&gt;</code>
   </summary>
   <br>
   <table>
@@ -232,9 +224,7 @@
 <!-- Start Spotify -->
 <details open>
   <summary>
-    <code>
-      &lt;jams&gt;
-    </code>
+    <code>&lt;jams&gt;</code>
   </summary>
   <br/>
   <div>
@@ -267,9 +257,7 @@
 <!-- Start Social Badges -->
 <details open>
   <summary>
-    <code>
-      &lt;socials&gt;
-    </code>
+    <code>&lt;socials&gt;</code>
   </summary>
   <br/>
     <div>
@@ -297,9 +285,7 @@
 <!-- Start BuyMeACoffee -->
 <details open>
   <summary>
-    <code>
-      &lt;support&gt;
-    </code>
+    <code>&lt;support&gt;</code>
   </summary>
   <br/>
   <div align="center">
