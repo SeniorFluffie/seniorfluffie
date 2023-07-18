@@ -102,7 +102,7 @@
         <img src="https://img.icons8.com/color/30/django.png"/>
       </a>
       <a href="https://www.java.com/">
-        <img src="https://img.icons8.com/color/30/java.png"/>
+        <img src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png"/>
       </a>
       <a href="https://spring.io/">
         <img src="https://img.icons8.com/color/30/spring-logo.png"/>
@@ -156,7 +156,7 @@
         <img src="https://img.icons8.com/color/30/amazon-web-services.png"/>
       </a>
       <a href="https://azure.microsoft.com/">
-        <img src="https://img.icons8.com/color/30/azure.png"/>
+        <img src="https://img.icons8.com/fluency/30/azure-1.png"/>
       </a>
       <a href="https://www.docker.com/">
         <img src="https://img.icons8.com/color/30/docker.png"/>
